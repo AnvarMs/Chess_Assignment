@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anvar MS\\Unity_Worck\\Chess Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E47C3463-8E56-D10F-7B62-0032031C0097}|Assembly-CSharp.csproj|C:\\Users\\Anvar MS\\Unity_Worck\\Chess Assignment\\assets\\chess\\scripts\\chessgamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47C3463-8E56-D10F-7B62-0032031C0097}|Assembly-CSharp.csproj|solutionrelative:assets\\chess\\scripts\\chessgamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47C3463-8E56-D10F-7B62-0032031C0097}|Assembly-CSharp.csproj|c:\\users\\anvar ms\\unity_worck\\chess assignment\\assets\\chess\\scripts\\core\\chessboardplacementhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47C3463-8E56-D10F-7B62-0032031C0097}|Assembly-CSharp.csproj|solutionrelative:assets\\chess\\scripts\\core\\chessboardplacementhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47C3463-8E56-D10F-7B62-0032031C0097}|Assembly-CSharp.csproj|C:\\Users\\Anvar MS\\Unity_Worck\\Chess Assignment\\assets\\chess\\scripts\\chesspiecelogics\\king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47C3463-8E56-D10F-7B62-0032031C0097}|Assembly-CSharp.csproj|solutionrelative:assets\\chess\\scripts\\chesspiecelogics\\king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47C3463-8E56-D10F-7B62-0032031C0097}|Assembly-CSharp.csproj|C:\\Users\\Anvar MS\\Unity_Worck\\Chess Assignment\\assets\\chess\\scripts\\chesspiecelogics\\queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47C3463-8E56-D10F-7B62-0032031C0097}|Assembly-CSharp.csproj|solutionrelative:assets\\chess\\scripts\\chesspiecelogics\\queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47C3463-8E56-D10F-7B62-0032031C0097}|Assembly-CSharp.csproj|C:\\Users\\Anvar MS\\Unity_Worck\\Chess Assignment\\assets\\chess\\scripts\\chesspiecelogics\\bishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47C3463-8E56-D10F-7B62-0032031C0097}|Assembly-CSharp.csproj|solutionrelative:assets\\chess\\scripts\\chesspiecelogics\\bishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47C3463-8E56-D10F-7B62-0032031C0097}|Assembly-CSharp.csproj|C:\\Users\\Anvar MS\\Unity_Worck\\Chess Assignment\\assets\\chess\\scripts\\chesspiecelogics\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47C3463-8E56-D10F-7B62-0032031C0097}|Assembly-CSharp.csproj|solutionrelative:assets\\chess\\scripts\\chesspiecelogics\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47C3463-8E56-D10F-7B62-0032031C0097}|Assembly-CSharp.csproj|C:\\Users\\Anvar MS\\Unity_Worck\\Chess Assignment\\assets\\chess\\scripts\\chesspiecelogics\\rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47C3463-8E56-D10F-7B62-0032031C0097}|Assembly-CSharp.csproj|solutionrelative:assets\\chess\\scripts\\chesspiecelogics\\rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47C3463-8E56-D10F-7B62-0032031C0097}|Assembly-CSharp.csproj|C:\\Users\\Anvar MS\\Unity_Worck\\Chess Assignment\\assets\\chess\\scripts\\chesspiecelogics\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47C3463-8E56-D10F-7B62-0032031C0097}|Assembly-CSharp.csproj|solutionrelative:assets\\chess\\scripts\\chesspiecelogics\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47C3463-8E56-D10F-7B62-0032031C0097}|Assembly-CSharp.csproj|C:\\Users\\Anvar MS\\Unity_Worck\\Chess Assignment\\assets\\chess\\scripts\\chesspiecelogics\\chesspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47C3463-8E56-D10F-7B62-0032031C0097}|Assembly-CSharp.csproj|solutionrelative:assets\\chess\\scripts\\chesspiecelogics\\chesspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47C3463-8E56-D10F-7B62-0032031C0097}|Assembly-CSharp.csproj|C:\\Users\\Anvar MS\\Unity_Worck\\Chess Assignment\\assets\\chess\\scripts\\core\\chessplayerplacementhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47C3463-8E56-D10F-7B62-0032031C0097}|Assembly-CSharp.csproj|solutionrelative:assets\\chess\\scripts\\core\\chessplayerplacementhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChessGameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Anvar MS\\Unity_Worck\\Chess Assignment\\Assets\\Chess\\Scripts\\ChessGameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Chess\\Scripts\\ChessGameManager.cs",
+              "ToolTip": "C:\\Users\\Anvar MS\\Unity_Worck\\Chess Assignment\\Assets\\Chess\\Scripts\\ChessGameManager.cs",
+              "RelativeToolTip": "Assets\\Chess\\Scripts\\ChessGameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T20:08:30.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "King.cs",
+              "DocumentMoniker": "C:\\Users\\Anvar MS\\Unity_Worck\\Chess Assignment\\Assets\\Chess\\Scripts\\ChessPieceLogics\\King.cs",
+              "RelativeDocumentMoniker": "Assets\\Chess\\Scripts\\ChessPieceLogics\\King.cs",
+              "ToolTip": "C:\\Users\\Anvar MS\\Unity_Worck\\Chess Assignment\\Assets\\Chess\\Scripts\\ChessPieceLogics\\King.cs",
+              "RelativeToolTip": "Assets\\Chess\\Scripts\\ChessPieceLogics\\King.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T20:05:58.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Queen.cs",
+              "DocumentMoniker": "C:\\Users\\Anvar MS\\Unity_Worck\\Chess Assignment\\Assets\\Chess\\Scripts\\ChessPieceLogics\\Queen.cs",
+              "RelativeDocumentMoniker": "Assets\\Chess\\Scripts\\ChessPieceLogics\\Queen.cs",
+              "ToolTip": "C:\\Users\\Anvar MS\\Unity_Worck\\Chess Assignment\\Assets\\Chess\\Scripts\\ChessPieceLogics\\Queen.cs",
+              "RelativeToolTip": "Assets\\Chess\\Scripts\\ChessPieceLogics\\Queen.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T19:57:35.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bishop.cs",
+              "DocumentMoniker": "C:\\Users\\Anvar MS\\Unity_Worck\\Chess Assignment\\Assets\\Chess\\Scripts\\ChessPieceLogics\\Bishop.cs",
+              "RelativeDocumentMoniker": "Assets\\Chess\\Scripts\\ChessPieceLogics\\Bishop.cs",
+              "ToolTip": "C:\\Users\\Anvar MS\\Unity_Worck\\Chess Assignment\\Assets\\Chess\\Scripts\\ChessPieceLogics\\Bishop.cs",
+              "RelativeToolTip": "Assets\\Chess\\Scripts\\ChessPieceLogics\\Bishop.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T19:48:54.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "C:\\Users\\Anvar MS\\Unity_Worck\\Chess Assignment\\Assets\\Chess\\Scripts\\ChessPieceLogics\\Knight.cs",
+              "RelativeDocumentMoniker": "Assets\\Chess\\Scripts\\ChessPieceLogics\\Knight.cs",
+              "ToolTip": "C:\\Users\\Anvar MS\\Unity_Worck\\Chess Assignment\\Assets\\Chess\\Scripts\\ChessPieceLogics\\Knight.cs",
+              "RelativeToolTip": "Assets\\Chess\\Scripts\\ChessPieceLogics\\Knight.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCIAAACVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T19:31:10.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rook.cs",
+              "DocumentMoniker": "C:\\Users\\Anvar MS\\Unity_Worck\\Chess Assignment\\Assets\\Chess\\Scripts\\ChessPieceLogics\\Rook.cs",
+              "RelativeDocumentMoniker": "Assets\\Chess\\Scripts\\ChessPieceLogics\\Rook.cs",
+              "ToolTip": "C:\\Users\\Anvar MS\\Unity_Worck\\Chess Assignment\\Assets\\Chess\\Scripts\\ChessPieceLogics\\Rook.cs",
+              "RelativeToolTip": "Assets\\Chess\\Scripts\\ChessPieceLogics\\Rook.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wC4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T19:29:13.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pawn.cs",
+              "DocumentMoniker": "C:\\Users\\Anvar MS\\Unity_Worck\\Chess Assignment\\Assets\\Chess\\Scripts\\ChessPieceLogics\\Pawn.cs",
+              "RelativeDocumentMoniker": "Assets\\Chess\\Scripts\\ChessPieceLogics\\Pawn.cs",
+              "ToolTip": "C:\\Users\\Anvar MS\\Unity_Worck\\Chess Assignment\\Assets\\Chess\\Scripts\\ChessPieceLogics\\Pawn.cs",
+              "RelativeToolTip": "Assets\\Chess\\Scripts\\ChessPieceLogics\\Pawn.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowD4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T19:18:25.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChessPiece.cs",
+              "DocumentMoniker": "C:\\Users\\Anvar MS\\Unity_Worck\\Chess Assignment\\Assets\\Chess\\Scripts\\ChessPieceLogics\\ChessPiece.cs",
+              "RelativeDocumentMoniker": "Assets\\Chess\\Scripts\\ChessPieceLogics\\ChessPiece.cs",
+              "ToolTip": "C:\\Users\\Anvar MS\\Unity_Worck\\Chess Assignment\\Assets\\Chess\\Scripts\\ChessPieceLogics\\ChessPiece.cs",
+              "RelativeToolTip": "Assets\\Chess\\Scripts\\ChessPieceLogics\\ChessPiece.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBgAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T19:17:53.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChessPlayerPlacementHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Anvar MS\\Unity_Worck\\Chess Assignment\\Assets\\Chess\\Scripts\\Core\\ChessPlayerPlacementHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Chess\\Scripts\\Core\\ChessPlayerPlacementHandler.cs",
+              "ToolTip": "C:\\Users\\Anvar MS\\Unity_Worck\\Chess Assignment\\Assets\\Chess\\Scripts\\Core\\ChessPlayerPlacementHandler.cs",
+              "RelativeToolTip": "Assets\\Chess\\Scripts\\Core\\ChessPlayerPlacementHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T18:29:55.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChessBoardPlacementHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Anvar MS\\Unity_Worck\\Chess Assignment\\Assets\\Chess\\Scripts\\Core\\ChessBoardPlacementHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Chess\\Scripts\\Core\\ChessBoardPlacementHandler.cs",
+              "ToolTip": "C:\\Users\\Anvar MS\\Unity_Worck\\Chess Assignment\\Assets\\Chess\\Scripts\\Core\\ChessBoardPlacementHandler.cs",
+              "RelativeToolTip": "Assets\\Chess\\Scripts\\Core\\ChessBoardPlacementHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T06:23:17.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
