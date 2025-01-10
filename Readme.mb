@@ -1,0 +1,61 @@
+# Chess Piece Movement Logic  
+
+This project implements the logic to calculate every possible move for each chess piece on a chessboard. It utilizes principles like **inheritance**, **abstract classes**, and the **singleton pattern** to create a robust and reusable base blueprint for chess piece behavior.
+
+---
+
+## Problem Statement  
+The task was to design a system capable of determining all possible moves for every chess piece based on its position, team, and movement rules.
+
+---
+
+## Approach  
+
+### 1. **Base Class - `ChessPiece`**  
+The `ChessPiece` class is an abstract class that serves as a blueprint for all chess pieces. It includes:  
+- **Position Data:** Tracks the current position of the piece on the chessboard.  
+- **Team Information:** Identifies whether the piece belongs to the white or black team.  
+- **Common Functionality:** Shared methods and properties that are applicable to all pieces, such as determining valid moves within board boundaries.  
+
+### 2. **Inheritance and Individual Piece Logic**  
+Each chess piece (e.g., Pawn, Knight, Bishop, etc.) inherits from the `ChessPiece` base class and implements its own movement logic.  
+
+| **Piece**   | **Logic**                                                                 |
+|-------------|---------------------------------------------------------------------------|
+| **Pawn**    | Moves one step forward; captures diagonally; can perform en passant and promotion. |
+| **Rook**    | Moves in straight lines (horizontally or vertically) without jumping over other pieces. |
+| **Knight**  | Moves in an L-shape (two steps in one direction and one perpendicular step); can jump over pieces. |
+| **Bishop**  | Moves diagonally without jumping over other pieces.                       |
+| **Queen**   | Combines the movement of a Rook and Bishop, moving straight or diagonally. |
+| **King**    | Moves one step in any direction; handles castling rules if applicable.    |
+
+Each piece's movement is encapsulated in its own script, ensuring modularity and clarity.
+
+---
+
+## Design Patterns Used  
+
+### **Singleton Pattern**  
+The singleton pattern is used to ensure that only one instance of certain key components (like the chessboard or game manager) exists throughout the application lifecycle.  
+
+### **Abstract Class**  
+The `ChessPiece` abstract class enforces a standard structure for all pieces, simplifying the addition of new pieces or rules.  
+
+### **Inheritance**  
+Inheritance allows each piece to share common functionality from the base class while maintaining specific movement logic in its respective class.  
+
+---
+
+## Learning Outcomes  
+
+- **OOP Principles:** Gained hands-on experience in using inheritance and abstract classes to structure a scalable and maintainable codebase.  
+- **Design Patterns:** Understood the practical application of the singleton pattern in managing centralized data and ensuring consistency.  
+- **Chess Logic:** Developed an in-depth understanding of chess movement rules and their implementation in code.  
+
+---
+
+## How to Use  
+
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/your-repo/chess-piece-logic.git
